@@ -1,0 +1,19 @@
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos gerados pelo projeto
+mapa_dates.html
+
+# Configurações de editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
